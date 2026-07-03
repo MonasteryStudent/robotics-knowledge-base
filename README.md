@@ -5,7 +5,4 @@ A personal knowledge base for robotics, ROS 2, machine learning, and autonomous 
 This repository contains:
 
 - glossary entries
-- chapter notes
-- code examples
-- diagrams
-- references
+- notes (concepts, workflows, and practical guides)
