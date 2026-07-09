@@ -5,7 +5,7 @@ A node is a process that performs a specific task within a ROS 2 system.
 
 ## Purpose
 
-Nodes divide complex robotic software into smaller, reusable components that communicate with each other through [[Topics]]s.
+Nodes divide complex robotic applications into smaller, reusable components. They communicate with other nodes through communication mechanisms such as [[Topics]]s, [[Service]]s, and [[Action]]s.
 
 ## Examples
 

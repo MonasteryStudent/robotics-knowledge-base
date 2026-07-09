@@ -7,11 +7,9 @@ A node publishes messages to a topic, and other nodes subscribe to that topic to
 
 ## Language Agnostic
 
-ROS 2 communication is independent of the programming language used to implement a node. As long as publishers and subscribers use the same topic name and message interface, they can communicate regardless of whether they are written in Python, C++, or another supported language.
+ROS 2 communication is independent of the programming language used to implement a node.
 
-## Communication Middleware
-
-ROS 2 uses DDS (Data Distribution Service) as its communication middleware. DDS enables nodes written in different programming languages to exchange messages as long as they use the same topic name and message interface.
+This is possible because ROS 2 uses DDS (Data Distribution Service) as its communication middleware. As long as publishers and subscribers use the same topic name and message interface, they can communicate regardless of whether they are written in Python, C++, or another supported language.
 
 ## Important Rules
 
