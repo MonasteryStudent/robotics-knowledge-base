@@ -1,8 +1,7 @@
 # Robotics Knowledge Base
 
-A personal knowledge base for robotics, ROS 2, machine learning, and autonomous systems.
+A personal knowledge base documenting my learning journey in robotics.
 
-This repository contains:
+The current focus is on **ROS 2**, including its core concepts, communication mechanisms, and software development workflows.
 
-- glossary entries
-- notes (concepts, workflows, and practical guides)
+The knowledge base may expand over time to cover additional robotics topics such as kinematics, motion planning, control, and perception.
