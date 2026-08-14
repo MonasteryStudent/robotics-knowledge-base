@@ -1,4 +1,3 @@
-
 ## Overview
 
 ROS 2 topics are used for stream-based communication between [[Node]]s.

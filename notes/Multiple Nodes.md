@@ -1,4 +1,3 @@
-
 ## Overview
 
 In the common case, each ROS 2 node runs as an independent process with its own event loop started by `spin()`.

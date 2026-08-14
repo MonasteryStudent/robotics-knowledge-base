@@ -1,4 +1,3 @@
-
 ## Definition
 
 A publisher is a ROS 2 entity that sends messages to a [[Topic]].

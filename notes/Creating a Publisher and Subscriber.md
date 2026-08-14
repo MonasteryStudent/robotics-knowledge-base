@@ -1,4 +1,3 @@
-
 ## Publisher
 
 1. Import the message interface.

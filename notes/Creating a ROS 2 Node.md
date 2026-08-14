@@ -1,4 +1,3 @@
-
 ## Overview
 
 Creating a ROS 2 node consists of three main steps:

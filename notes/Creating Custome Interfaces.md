@@ -1,4 +1,3 @@
-
 ## Overview
 
 ROS 2 provides many predefined interfaces. If none of them matches the requirements of an application, custom interfaces can be created.

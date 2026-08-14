@@ -1,5 +1,4 @@
-
-## What is `rqt_graph`?
+## Overview
 
 `rqt_graph` is a visualization tool that displays the communication graph of a running ROS 2 system.
 

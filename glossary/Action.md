@@ -1,4 +1,3 @@
-
 ## Definition
 
 An action is a communication mechanism in ROS 2 that enables asynchronous client-server communication between [[Node]]s for long-running tasks. It is defined by a name and an action interface. The interface consists of three parts:

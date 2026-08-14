@@ -1,4 +1,3 @@
-
 ## Definition
 
 A parameter is a configurable value associated with a [[Node]]. Each parameter has a name, a data type, and a value.

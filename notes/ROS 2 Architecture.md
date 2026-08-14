@@ -1,4 +1,3 @@
-
 ## Overview
 
 ROS 2 is organized into multiple layers. Each layer has a specific responsibility, from the user application down to the communication middleware.

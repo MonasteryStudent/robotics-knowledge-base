@@ -1,4 +1,3 @@
-
 ## Definition
 
 A topic is a named communication channel in ROS 2. It is defined by its name and the interface (data type) of the messages it carries.

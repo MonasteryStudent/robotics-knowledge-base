@@ -1,4 +1,3 @@
-
 ## Definition
 
 A launch file is a configuration file that defines how one or more [[Node]]s should be started in a ROS 2 system. It can specify nodes, parameters, namespaces, remappings, and other startup configurations.

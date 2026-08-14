@@ -1,4 +1,3 @@
-
 ## Definition
 
 A service is a communication mechanism in ROS 2 that enables request-response communication between [[Node]]s. It is defined by a name and a service interface. The interface consists of two parts: a request and a response.

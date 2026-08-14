@@ -1,4 +1,3 @@
-
 ## Definition
 
 A workspace is a directory that contains one or more ROS 2 [[Package]]s and provides the environment for building and developing them.

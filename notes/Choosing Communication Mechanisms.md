@@ -1,4 +1,3 @@
-
 ## Overview
 
 ROS 2 provides different communication mechanisms. Each mechanism is designed for a specific type of communication.

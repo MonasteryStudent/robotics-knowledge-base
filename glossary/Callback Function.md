@@ -1,4 +1,3 @@
-
 ## Definition
 
 A callback function is a function that is registered with ROS 2 and called automatically when a specific event occurs.

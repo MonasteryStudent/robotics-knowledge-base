@@ -1,4 +1,3 @@
-
 ## Definition
 
 A bag is a file or collection of files used to record and store ROS 2 data, such as messages published on [[Topic]]s.

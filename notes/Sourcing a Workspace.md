@@ -1,5 +1,4 @@
-
-## What does sourcing do?
+## Overview
 
 Sourcing a workspace updates the current shell environment so that ROS 2 can discover packages, nodes, libraries, and other resources contained in the workspace.
 

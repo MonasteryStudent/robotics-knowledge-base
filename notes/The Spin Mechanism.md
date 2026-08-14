@@ -1,4 +1,3 @@
-
 ## Overview
 
 ROS 2 nodes are event-driven.
