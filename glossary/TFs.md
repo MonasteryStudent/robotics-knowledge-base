@@ -4,7 +4,7 @@ In ROS TransForms (TFs) are the [[Transformation]]s between two frames in 3D spa
 
 ## Purpose
 
-TFs are used to track the different coordinate frames of a ROS robot over time and describe the spatial relationships between them.
+TFs are used to track the different coordinate frames of a ROS robot over time and describe the spatial relationships between them. A TF therefore contains a timestamp and a transformation, consisting of a translation and rotation, that describes the child frame relative to the parent frame.
 
 ## TF Tree
 
