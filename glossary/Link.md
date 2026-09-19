@@ -1,5 +1,3 @@
 ## Definition
 
-A link represents a rigid part of a robot in a [[URDF]] model.
-
-A link can contain a visual representation such as a box, cylinder, sphere, or mesh. Links are connected to other links through [[Joint|joints]].
+A link represents a rigid part of a robot in a [[URDF]] model. Links are connected to one another through [[Joint|joints]].

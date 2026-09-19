@@ -10,11 +10,11 @@ Creating a ROS 2 node consists of three main steps:
 
 ### 1. Create a workspace
 
-Create a ROS 2 workspace and add one or more packages to its `src` directory.
+Create a ROS 2 [[Workspace|workspace]] and add one or more packages to its `src` directory.
 
 ### 2. Create a package
 
-Create either a Python (`ament_python`) or C++ (`ament_cmake`) package.
+Create either a Python (`ament_python`) or C++ (`ament_cmake`) [[Package|package]].
 
 ### 3. Implement the node
 
@@ -45,10 +45,3 @@ source install/setup.bash
 ```bash
 ros2 run <package_name> <executable_name>
 ```
-
-## Related Concepts
-
-- [[Workspace]]
-- [[Package]]
-- [[Node]]
-- [[Sourcing a Workspace]]

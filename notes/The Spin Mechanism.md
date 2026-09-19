@@ -1,8 +1,6 @@
 ## Overview
 
-ROS 2 nodes are event-driven.
-
-The `spin()` function keeps a node alive by allowing an executor to wait for events and execute the corresponding callback functions.
+ROS 2 [[Node|nodes]] are event-driven. The `spin()` function lets an [[Executor]] wait for events and execute the corresponding [[Callback Function|callbacks]].
 
 ## Event Loop
 
@@ -116,11 +114,3 @@ Each node is responsible for processing its own events.
 Depending on the executor, callbacks may be processed sequentially (single-threaded) or in parallel (multi-threaded).
 
 Communication between nodes happens through ROS 2 communication mechanisms such as topics, services, and actions.
-
-## Related Concepts
-
-- [[Node]]
-- [[Callback Function]]
-- [[Topic]]
-- [[Service]]
-- [[Action]]

@@ -1,6 +1,6 @@
 ## Overview
 
-ROS 2 provides many predefined interfaces. If none of them matches the requirements of an application, custom interfaces can be created.
+ROS 2 provides many predefined [[ROS 2 Interface|interfaces]]. If none of them matches the requirements of an application, custom interfaces can be created.
 
 As a best practice, all custom interfaces should be placed in a dedicated interface package.
 
