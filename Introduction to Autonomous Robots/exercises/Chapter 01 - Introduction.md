@@ -82,6 +82,8 @@ its surroundings to guide its actions.
 Under my working definition, physical movement and automatic operation 
 alone are not sufficient to qualify a machine as a robot.
 
+## Exercise 4 - Robotics in Industry
+
 ### Question
 
 Which industries have been recently revolutionized by robotics?
